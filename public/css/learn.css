@@ -1,0 +1,32 @@
+.swiper-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+}
+
+.swiper-slide.box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    width: 30%; 
+    text-align: center; 
+}
+
+.swiper-slide.box img {
+    width: 100%; 
+    height: auto;
+}
+.swiper-slide.box .btn {
+    margin-top: 10px; 
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+.swiper-slide.box .btn:hover {
+    background-color: #0056b3; 
+}
