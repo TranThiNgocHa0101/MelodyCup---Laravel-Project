@@ -44,11 +44,9 @@
 
 以下の動画でプロジェクトの紹介をご覧ください：
 
-<iframe width="600" height="340"  
+ 
 src="https://www.youtube.com/embed/P_SCBj680fo"  
-title="Melody Cup Demo" frameborder="0"  
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"  
-allowfullscreen></iframe>
+
 
 ---
 
